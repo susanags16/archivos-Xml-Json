@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directorio>
+  <contacto>
+    <id>1</id>
+    <nombre>Juan Perez</nombre>
+    <telefono>5512345678</telefono>
+    <email>juan@mail.com</email>
+  </contacto>
+  <contacto>
+    <id>4</id>
+    <nombre>Maria Solano</nombre>
+    <telefono>5512345663</telefono>
+    <email>maria@mail.com</email>
+  </contacto>
+  <contacto>
+    <id>5</id>
+    <nombre>Ana Martinez</nombre>
+    <telefono>5512345612</telefono>
+    <email>ana@mail.com</email>
+  </contacto>
+  <contacto>
+    <id>6</id>
+    <nombre>Juan Lopez</nombre>
+    <telefono>9513469729</telefono>
+    <email>juan16@gmail.com</email>
+  </contacto>
+</directorio>
